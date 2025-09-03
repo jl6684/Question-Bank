@@ -1,0 +1,95 @@
+{
+  "questions": [
+    {
+        "source": "s22_11",
+        "number": "1(b)",
+        "question_text": "State the difference between RAM and ROM. [1]",
+        "topics": ["Hardware"],
+        "types": ["Definition", "Comparison"],
+        "aos": ["AO1"],
+        "answer_text": "RAM is volatile memory used for temporary storage; ROM is non-volatile and stores permanent instructions."
+    },
+    {
+        "source": "s22_11",
+        "number": "1(c)",
+        "question_text": "Define the term 'bit'. [1]",
+        "topics": ["Information representation"],
+        "types": ["Definition"],
+        "aos": ["AO1"],
+        "answer_text": "A bit is the smallest unit of data in computing, representing a binary value of 0 or 1."
+    },
+    {
+        "source": "s22_11",
+        "number": "1(d)",
+        "question_text": "State one advantage of using solid-state drives over hard disk drives. [1]",
+        "topics": ["Hardware"],
+        "types": ["Advantage"],
+        "aos": ["AO1"],
+        "answer_text": "Solid-state drives are faster and have no moving parts, making them more durable."
+    },
+    {
+        "source": "s22_11",
+        "number": "1(e)",
+        "question_text": "What is the purpose of an operating system? [1]",
+        "topics": ["Software"],
+        "types": ["Definition", "Purpose"],
+        "aos": ["AO1"],
+        "answer_text": "An operating system manages hardware and software resources and provides services for programs."
+    },
+    {
+        "source": "s22_11",
+        "number": "1(f)",
+        "question_text": "State the difference between a compiler and an interpreter. [1]",
+        "topics": ["Programming"],
+        "types": ["Definition", "Comparison"],
+        "aos": ["AO1"],
+        "answer_text": "A compiler translates the whole program before execution; an interpreter translates line by line during execution."
+    },
+    {
+        "source": "s22_11",
+        "number": "1(g)",
+        "question_text": "Define the term 'algorithm'. [1]",
+        "topics": ["Programming"],
+        "types": ["Definition"],
+        "aos": ["AO1"],
+        "answer_text": "An algorithm is a step-by-step set of instructions designed to solve a specific problem."
+    },
+    {
+        "source": "s22_11",
+        "number": "1(h)",
+        "question_text": "State one reason why hexadecimal is used in computing. [1]",
+        "topics": ["Information representation"],
+        "types": ["Reason"],
+        "aos": ["AO1"],
+        "answer_text": "Hexadecimal is more compact and easier to read than binary for representing large values."
+    },
+    {
+        "source": "s22_11",
+        "number": "1(i)",
+        "question_text": "What is the function of the control unit in a CPU? [1]",
+        "topics": ["Hardware"],
+        "types": ["Function"],
+        "aos": ["AO1"],
+        "answer_text": "The control unit directs the flow of data and instructions within the CPU."
+    },
+    {
+        "source": "s22_11",
+        "number": "1(j)",
+        "question_text": "State the difference between lossless and lossy compression. [1]",
+        "topics": ["Data compression"],
+        "types": ["Definition", "Comparison"],
+        "aos": ["AO1"],
+        "answer_text": "Lossless compression retains all original data; lossy compression removes some data to reduce file size."
+    },
+    {
+        "source": "s22_11",
+        "number": "1(k)",
+        "question_text": "Define the term 'protocol' in networking. [1]",
+        "topics": ["Networking"],
+        "types": ["Definition"],
+        "aos": ["AO1"],
+        "answer_text": "A protocol is a set of rules that govern data communication between devices."
+    }
+  ]
+
+}
